@@ -1,0 +1,16 @@
+apiversion: v2
+name: onecx-theme
+home: ""
+sources: []
+version: 0.0.0
+description: ""
+keywords: []
+maintainers: []
+icon: ""
+condition: ""
+tags: ""
+appversion: 0.0.0
+deprecated: false
+annotations: {}
+kubeversion: ""
+type: ""
