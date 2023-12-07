@@ -15,7 +15,7 @@ annotations: {}
 kubeversion: ""
 dependencies:
 - name: onecx-theme-svc
-  version: 0.0.0-rc.14
+  version: 0.0.0-rc.15
   repository: oci://ghcr.io/onecx/charts
   condition: ""
   tags: []
