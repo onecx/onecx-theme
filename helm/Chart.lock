@@ -1,0 +1,6 @@
+dependencies:
+- name: onecx-theme-svc
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.15
+digest: sha256:71d3f3b88abc65c6be01b109c47452a0ce52299d976175972bf9e70041d5a06e
+generated: "2023-12-13T16:44:46.574230525+01:00"
