@@ -7,6 +7,6 @@ dependencies:
   version: 0.0.0-rc.16
 - name: onecx-theme-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.7
-digest: sha256:6cc768dde1f6c09757181f7d389aba29fb34e65fc9a67e5337f7c2e4f3c897d1
-generated: "2023-12-21T15:23:50.398577276+01:00"
+  version: 0.0.0-rc.8
+digest: sha256:9d17c5ab01cf4b451c929f89866124c4079cf63d083219c33138e7d666542e07
+generated: "2023-12-21T14:32:15.256221709Z"
