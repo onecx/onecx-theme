@@ -5,8 +5,8 @@ deployment:
 product:
   info:
     data:
-      description: "Theme"
+      description: "OneCX Theme"
       imageUrl: ""
       iconName: "palette"
-      dispalyName: "Onecx themes"
+      displayName: "OneCX Themes"
       basePath: "/theme"  
