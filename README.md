@@ -1,2 +1,2 @@
 # onecx-theme
-OneCx Theme
+OneCX Theme
