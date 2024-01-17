@@ -8,5 +8,8 @@ dependencies:
 - name: onecx-theme-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.10
-digest: sha256:2ef5da43352ce7640c68194ec74f85a58d59fe0e2a014747d1117845aabbd202
-generated: "2024-01-08T18:37:07.452360631Z"
+- name: onecx-theme-ui
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.1.0-rc.12
+digest: sha256:844aba9612e9bea83a9cadd7d6c648af0b7c75bcf21a74c6b3be39bbe88bcbff
+generated: "2024-01-17T08:53:58.030075892+01:00"
