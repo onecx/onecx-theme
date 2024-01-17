@@ -7,9 +7,9 @@ dependencies:
   version: 0.0.0-rc.18
 - name: onecx-theme-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.10
+  version: 0.0.0-rc.11
 - name: onecx-theme-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.1.0-rc.12
-digest: sha256:844aba9612e9bea83a9cadd7d6c648af0b7c75bcf21a74c6b3be39bbe88bcbff
-generated: "2024-01-17T08:53:58.030075892+01:00"
+digest: sha256:254ab2fa1e4966694a1d664e81fe3c4f1fcf1031ea56255b790e8f38815046b3
+generated: "2024-01-17T12:58:52.905882012Z"
