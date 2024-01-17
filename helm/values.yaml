@@ -1,6 +1,7 @@
 deployment:
   svc: true 
   bff: true
+  ui: true
 
 product:
   info:
@@ -8,5 +9,5 @@ product:
       description: "OneCX Theme"
       imageUrl: ""
       iconName: "palette"
-      displayName: "OneCX Themes"
+      displayName: "OneCX Theme"
       basePath: "/theme"  
