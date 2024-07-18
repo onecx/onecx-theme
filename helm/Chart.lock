@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.52
 - name: onecx-theme-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.1.0-rc.61
-digest: sha256:b35cece9f345e5a8de87e881b5ab68074a6a3af0a46ab6295da024c41e7aac68
-generated: "2024-07-17T10:51:29.752024238Z"
+  version: 0.1.0-rc.62
+digest: sha256:aa9fb0421e4d3d3a4c111e429887809cd1168b926ef1b1238e7b620d66ca7b44
+generated: "2024-07-18T11:34:41.123047557Z"
