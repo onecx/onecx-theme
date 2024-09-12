@@ -3,6 +3,7 @@ title: Theme Management
 version: latest
 start_page: onecx-theme:index.adoc
 nav:
- - modules/onecx-theme/nav.adoc
+ - modules/general/nav.adoc
+ - modules/onecx-theme-ui/nav.adoc
  - modules/onecx-theme-svc/nav.adoc
  - modules/onecx-theme-bff/nav.adoc 
