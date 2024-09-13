@@ -1,7 +1,7 @@
 name: onecx-theme
 title: Theme Management
 version: latest
-start_page: onecx-theme:index.adoc
+start_page: general:index.adoc
 nav:
  - modules/general/nav.adoc
  - modules/onecx-theme-ui/nav.adoc
