@@ -1,5 +1,52 @@
 = OneCX Theme Management
 
+[cols="1,1"]
+.Theme UI
+|===
+a|image::overview_1.png[]
+a|image::overview_2.png[]
+|===
+
+== Overview
+The OneCX Theme Management feature allows organizations to customize the visual appearance of their portal to align with their brand identity and user preferences. This feature provides a flexible and intuitive way to manage themes, ensuring a consistent and engaging user experience across the platform. Key Features include:
+
+*Customizable Themes*:
+
+* Brand Alignment: Enables the customization of colors, fonts, and other visual elements to match the organization' branding guidelines.
+* Dynamic Updates: Themes can be updated dynamically, ensuring that changes are reflected in real-time without disrupting the user experience.
+
+*User Preferences*:
+
+* Personalization Options: Allows workspaces for of dedicated users to select their preferred themes from a set of available options, enhancing their personal experience.
+
+*Administrative Controls*:
+
+* Centralized Management: Administrators can manage themes centrally, ensuring consistency across different workspaces and user groups.
+* Access Control: Provides the ability to control who can create, edit, and apply themes, maintaining security and governance.
+
+*Multi-Tenancy Support*:
+
+* Tenant-Specific Themes: Supports multi-tenancy, allowing different themes to be applied for each tenant. This ensures that each tenant can have a unique visual identity that aligns with their specific branding and preferences.
+
+*Responsive Design*:
+
+* Device Compatibility: Ensures that themes are responsive and look great on all devices, including desktops, tablets, and smartphones.
+* Accessibility: Supports accessibility standards, making sure that the portal is usable by all users, including those with disabilities.
+
+== Benefits
+* Enhanced User Experience: Customizable themes create a visually appealing and engaging user interface, improving overall satisfaction.
+* Brand Consistency: Ensures that the portal reflects the organization’s brand identity, reinforcing brand recognition and trust.
+* Flexibility: Offers a high degree of flexibility, allowing both administrators and users to tailor the visual appearance to their needs.
+* Improved Accessibility: Responsive and accessible design ensures that the portal is usable by a wide range of users, enhancing inclusivity.
+* Tenant Customization: Multi-tenancy support allows each tenant to have a distinct look and feel, catering to their unique requirements and enhancing their user experience.
+
+== UI Examples
+
+.Theme variables
+image::theme_variables.png[]
+.Theme designer
+image::theme_designer.png[]
+
 == Licence
 This software is licensed under the Apache License, Version 2.0.
 You may obtain a copy of the license in the corresponding LICENSE file or visit the link:https://www.apache.org/licenses/LICENSE-2.0[Apache website] for more information.
@@ -8,16 +55,10 @@ You may obtain a copy of the license in the corresponding LICENSE file or visit 
 We welcome contributions from the community.
 If you would like to contribute to the development of OneCX Theme Management Software, please follow our contribution guidelines (tbd).
 
-== What is Theme Management?
-Theme Management refers to creating and editing Themes usable in context of OneCX applications.
-
-== Key Features
-* Theme item Storage and Retrieval: create and edit Themes usable in context of OneCX applications.
-
-== Issue tracking
+== Issue Tracking
 All OneCX Theme issues are tracked and maintained at the link:https://xyz.com[issue tracking tool].
 
-== Overview
+== Structure Overview
 OneCX Theme Software is a comprehensive solution for managing Themes in a user-friendly and efficient manner.
 It is a solution that consists of three main components: a backend service, a user interface and a backend-for-frontend (BFF) layer.
 
