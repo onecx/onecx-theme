@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Theme"
+      description: "Manage Workspace Themes"
       imageUrl: ""
-      iconName: "palette"
+      iconName: palette
       displayName: "OneCX Theme"
-      basePath: "/theme"  
+      basePath: /theme
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]
