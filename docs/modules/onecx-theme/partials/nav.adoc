@@ -1,1 +1,7 @@
 * xref:documentation:onecx-theme:index.adoc[Theme]
++
+include::documentation:onecx-theme-ui:partial$nav.adoc[]
++
+include::documentation:onecx-theme-bff:partial$nav.adoc[]
++
+include::documentation:onecx-theme-svc:partial$nav.adoc[]
