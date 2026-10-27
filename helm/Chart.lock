@@ -4,12 +4,12 @@ dependencies:
   version: 0.4.0
 - name: onecx-theme-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 1.14.0-rc.28
+  version: 1.14.0-rc.29
 - name: onecx-theme-bff
   repository: oci://ghcr.io/onecx/charts
   version: 1.13.0-rc.29
 - name: onecx-theme-ui
   repository: oci://ghcr.io/onecx/charts
   version: 1.13.0-rc.63
-digest: sha256:849e5ee941d39f995d3e714c7f8beba3bcb1567ec86a115da2b12e0eb4dadd0b
-generated: "2026-10-27T15:23:43.602796286Z"
+digest: sha256:074ea8f35194f0c75a8b11b3771382f01ad1c45a129a059cff03a35114342869
+generated: "2026-10-27T16:00:51.845729775Z"
